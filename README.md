@@ -15,7 +15,7 @@ This project is a simple Todo List API built using Flask and SQLAlchemy. It prov
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/todo-list-api.git
+   git clone https://github.com/endxff/todo-list-api.git
    cd todo-list-api
    ```
 
